@@ -1,8 +1,8 @@
-//
 #include<iostream>
 
 using namespace std;
 int main(){
-    //code
+    char arr[]={'a','b','c','\0'};
+    cout<<arr<<endl;
     return 0;
 }
