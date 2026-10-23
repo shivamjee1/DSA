@@ -10,6 +10,10 @@ int main(){
     for(char val:vect2){
         cout<<val;
     }
+    int left =vec1[0];
+    int right=vec1.size();
+    cout<<endl<<left<<right;
+    //return left;
     // vector<int> vec3;
     // vec3[1]=2;
     // cout<<vec3[1];
