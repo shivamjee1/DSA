@@ -8,3 +8,13 @@ linked list problem++
 string problem ++
 two pointer 167
 progress ++ leetcode , gfg
+leetcode questions {
+15-->3sum,  16-->3sum closest, 25-->Remove Duplicates from Sorted Array, 75-->Dutch flag(0,1,2 sort), 
+80-->Remove Duplicates from Sorted Array, 167-->2 sum II, 977-->Squares of a Sorted Array
+}
+
+gft problems {
+1.segregate 0s & 1s;
+2.
+1-->triplet with smaller sum;
+}
