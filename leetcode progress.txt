@@ -17,4 +17,5 @@ gft problems {
 1.segregate 0s & 1s;
 2.
 1-->triplet with smaller sum;
+sliding window: k size;
 }
