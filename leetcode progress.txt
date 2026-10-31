@@ -13,9 +13,10 @@ leetcode questions {
 80-->Remove Duplicates from Sorted Array, 167-->2 sum II, 581-->581. Shortest Unsorted Continuous Subarray, 
 977-->Squares of a Sorted Array
 719 --> 
+problems on sliding qindows
 }
 
-gft problems {
+gfg problems {
 1.segregate 0s & 1s;
 2.
 1-->triplet with smaller sum;
